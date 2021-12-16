@@ -7,7 +7,8 @@ Beamable: **0.17.4**
 
 Steps:
 1. Sign into organization
-2. Create few **geo** type content files
+2. Import TMP Pro (You could do this through prompt in the toolbox window)
+3. Create few **geo** type content files
 
 ![ContentManager](https://user-images.githubusercontent.com/6697418/146355787-9dfdc92d-5076-4bb9-9d19-a55bedd811e1.png)
 
